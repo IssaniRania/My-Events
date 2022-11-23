@@ -1,0 +1,36 @@
+{
+      events:[
+      {
+        id:123456,
+        category:'bien-etre-animal',
+        title:'Journe d/adoption des achats',
+        description:'trouver votre nouvel ami félin lors de cet événement',
+        location:'Meow Town',
+        date:'28 January 2022',
+        time:'12:00',
+        PetsAllowed:true,
+        organizer:'Foulen ben Foulen'
+      },
+      {
+        id:6458932,
+        category:'bien-etre-animal',
+        title:'Jardinage communautaire',
+        description:'trouver votre nouvel ami félin lors de cet événement',
+        location:'Meow Town',
+        date:'1 Juin 2022',
+        time:'12:00',
+        PetsAllowed:true,
+        organizer:'Foulen ben Foulen'
+      },
+      { id:897521,
+        category:'bien-etre-animal',
+        title:'Netoyage de palage',
+        description:'trouver votre nouvel ami félin lors de cet événement',
+        location:'Meow Town',
+        date:'23 January 2022',
+        time:'12:00',
+        PetsAllowed:true,
+        organizer:'Foulen ben Foulen'
+      }
+    ]
+    }
